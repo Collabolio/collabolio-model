@@ -1,0 +1,101 @@
+id,skill
+yn1,Communication
+yn2,Customer Service
+yn3,Financial Analysis
+yn4,Leadership
+yn5,Marketing
+yn6,Negotiation
+yn7,Project Management
+yn8,Sales
+yn9,Strategic Planning
+yn10,Time Management
+yn11,application security
+yn12,cloud security
+yn13,compliance
+yn14,cybersecurity awareness
+yn15,data privacy
+yn16,identity and access management
+yn17,incident response
+yn18,malware analysis
+yn19,network security
+yn20,penetration testing
+yn21,risk management
+yn22,security architecture
+yn23,security operations
+yn24,threat intelligence
+yn25,vulnerability assessment
+yn26,Android Development
+yn27,Flutter Development
+yn28,Ionic Development
+yn29,iOS Development
+yn30,React Native Development
+yn31,Classification
+yn32,Clustering
+yn33,Computer Vision
+yn34,Decision Trees
+yn35,Deep Learning
+yn36,Dimensionality Reduction
+yn37,Ensemble Methods
+yn38,Natural Language Processing
+yn39,Neural Networks
+yn40,Random Forest
+yn41,Regression
+yn42,Support Vector Machines
+yn43,Alibaba Cloud
+yn44,Azure
+yn45,DigitalOcean
+yn46,Google Cloud
+yn47,IBM Cloud
+yn48,Oracle Cloud
+yn49,Red Hat Cloud
+yn50,Salesforce Cloud
+yn51,VMware Cloud
+yn52,Cassandra
+yn53,Flink
+yn54,Hadoop
+yn55,HBase
+yn56,Hive
+yn57,Kafka
+yn58,MapReduce
+yn59,Pig
+yn60,Spark
+yn61,Storm
+yn62,Front-end Development
+yn63,Information Architecture
+yn64,Interaction Design
+yn65,Prototyping
+yn66,Usability Testing
+yn67,User Research
+yn68,Visual Design
+yn69,Wireframing
+yn70,Angular
+yn71,Babel
+yn72,Bootstrap
+yn73,CSS
+yn74,Grunt
+yn75,Gulp
+yn76,HTML
+yn77,JavaScript
+yn78,jQuery
+yn79,LESS
+yn80,React
+yn81,SASS
+yn82,TypeScript
+yn83,Vue
+yn84,Webpack
+yn85,C#
+yn86,Go
+yn87,Java
+yn88,Kotlin
+yn89,Node.js
+yn90,PHP
+yn91,Python
+yn92,Ruby
+yn93,Scala
+yn94,SQL
+yn95,Back-end Developer
+yn96,Cloud Computing
+yn97,UI/UX
+yn98,Adobe XD
+yn99,Figma
+yn100,Web Design
